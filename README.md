@@ -16,6 +16,16 @@ Welcome to my GitHub project portfolio. Here, real-world projects that delve dee
 [🔝 back to top](#top)
 | S.No | Project Link | Description | Tools Used ⚒️ |
 |------|--------------|-------------|----------------|
+| 1 | [Inside Sales CRM 🤖📊](https://github.com/Sreehari-Sundaran/Inside_Sales_CRM) | Built a self-contained **Inside Sales CRM using Claude Code**, enabling agent login-time tracking, lead management, call logging, follow-up reminders, renewal tracking, and a live manager dashboard for team visibility. | Claude Code, Node.js, Express.js, React (Vite), SQLite, JavaScript, HTML, CSS |
+
+
+
+
+
+
+
+| S.No | Project Link | Description | Tools Used ⚒️ |
+|------|--------------|-------------|----------------|
 | 1 | [American Express User Exit Prediction 🏦](https://github.com/Sreehari-Sundaran/American-Express-User-Exit-Data-Analytics) ![Real World Project](https://img.shields.io/badge/real%20world%20project-8A2BE2)| Inital raw data set was cleansed and transormed into csv file using python followed by visualisation | Python(Pandas,Pyplot,Folium,sklearn,Numpy),Logistic Regression,Random Forest model,Gradient Boosting Model |
 | 2 | [Airbnb Top 500(India)🏨](https://github.com/lionheartsss1997/AirBnB_Top500_analysis) ![Real World Project](https://img.shields.io/badge/real%20world%20project-8A2BE2)| Inital raw data set was cleansed and transormed into csv file using python followed by visualisation | Python(Pandas,Pyplot,Folium) |
 
