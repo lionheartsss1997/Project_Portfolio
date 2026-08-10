@@ -4,6 +4,7 @@ Welcome to my GitHub project portfolio. Here, real-world projects that delve dee
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"><br>
 <a name="top"></a>
 ## CONTENTS📝
+- [AI Projects](#RealWorldAIProjects)
 - [Python](#python)
 - [Statistics](#statistics)
 - [Excel](#excel)
@@ -11,17 +12,14 @@ Welcome to my GitHub project portfolio. Here, real-world projects that delve dee
 - [Power BI](#power-bi)
 - [Tableau](#tableau)
 - [Contact](#contact)
-## Python
+## RealWorld AI Projects
 
 [🔝 back to top](#top)
 | S.No | Project Link | Description | Tools Used ⚒️ |
 |------|--------------|-------------|----------------|
 | 1 | [Inside Sales CRM 🤖📊](https://github.com/Sreehari-Sundaran/Inside_Sales_CRM) | Built a self-contained **Inside Sales CRM using Claude Code**, enabling agent login-time tracking, lead management, call logging, follow-up reminders, renewal tracking, and a live manager dashboard for team visibility. | Claude Code, Node.js, Express.js, React (Vite), SQLite, JavaScript, HTML, CSS |
 
-
-
-
-
+## Python
 
 
 | S.No | Project Link | Description | Tools Used ⚒️ |
